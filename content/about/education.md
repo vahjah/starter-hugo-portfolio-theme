@@ -25,7 +25,7 @@ experience:
   - title: Master of Computing and Innovation
     company: University of Adelaide
     company_url: ''
-    company_logo: org-x
+    company_logo: app_logo
     location: Adelaide, Australia
     date_start: '2021-08-01'
     date_end: '2023-07-12'
@@ -42,6 +42,15 @@ experience:
     date_start: '2016-01-01'
     date_end: '2020-12-31'
     description: My dissertation was on X
+
+  - title: LLB 
+    company: Monash University
+    company_url: ''
+    company_logo: org-x
+    location: Melbourne, Australia
+    date_start: '2016-01-01'
+    date_end: '2020-12-31'
+    description: My dissertation was on X    
 
 design:
   columns: '1'
