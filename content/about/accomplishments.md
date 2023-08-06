@@ -29,7 +29,7 @@ item:
     description: ''
     organization: EUTIC
     organization_url: https://www.linkedin.com/company/edinburgh-university-trading-and-investment-club/about/
-    title: Neural Networks and Deep Learning
+    title: - Raised over £3000 in sponsorship 
     url: ''
   - certificate_url: https://www.edx.org
     date_end: ''
