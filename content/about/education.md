@@ -25,7 +25,7 @@ experience:
   - title: Master of Computing and Innovation
     company: University of Adelaide
     company_url: ''
-    company_logo: static/uploads/app_logo.jpg
+    company_logo: org-x
     location: Adelaide, Australia
     date_start: '2021-08-01'
     date_end: '2023-07-12'
